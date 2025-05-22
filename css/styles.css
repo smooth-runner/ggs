@@ -6,7 +6,6 @@ body {
     background-position: center;
     font-family: 'CoolFont', sans-serif;
     color: white;
-    background-color: unset;
 }
 
 body.background-on {
@@ -17,7 +16,6 @@ body.background-on {
     background-position: center;
     font-family: 'CoolFont', sans-serif;
     color: white;
-    background-color: unset;
 }
 
 
