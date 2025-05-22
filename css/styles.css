@@ -1,11 +1,18 @@
 body {
+  background-color: black;
+  margin: 0;
+  height: 100vh;
+}
+
+
+body.background-on {
     margin: 0;
     padding: 0;
     background-image: url('../images/lollz.png');
     background-size: cover;
     background-position: center;
     font-family: 'CoolFont', sans-serif;
-    color: white;
+    background-color: unset;
 }
 
 
