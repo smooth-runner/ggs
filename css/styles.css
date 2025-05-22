@@ -12,6 +12,7 @@ body.background-on {
     background-size: cover;
     background-position: center;
     font-family: 'CoolFont', sans-serif;
+    color: white;
     background-color: unset;
 }
 
