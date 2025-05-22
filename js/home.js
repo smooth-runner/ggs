@@ -1,6 +1,6 @@
 var audio = document.getElementById("music");
 var allowContinue = true;
-var song = 'assets/media/stupidretard.ogg';
+var song = '../media/TookHerToTheO.mp3';
 
 function proceed() {
   if (allowContinue) {
