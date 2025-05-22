@@ -10,7 +10,7 @@ function proceed() {
     setTimeout(function () {
 
       audio.src = song;
-      audio.volume = 0.1;
+      audio.volume = 1;
       audio.loop = true;
       audio.autoplay = true;
       audio.play();
