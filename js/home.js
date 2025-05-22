@@ -1,6 +1,6 @@
 var audio = document.getElementById("music");
 var allowContinue = true;
-var song = '../media/TookHerToTheO.mp3';
+var song = '../media/ezwinz.mp3';
 
 function proceed() {
   if (allowContinue) {
